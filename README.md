@@ -67,4 +67,4 @@ To change port bindings for HDFS FileBrowser and other services edit docker-hado
 
 # Contributors
 
-Ivan Ermilov [twitter](https://twitter.com/earthquakesan)
+Ivan Ermilov ([twitter](https://twitter.com/earthquakesan))
